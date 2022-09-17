@@ -1,1 +1,1 @@
-# minyx
+# minyx project
